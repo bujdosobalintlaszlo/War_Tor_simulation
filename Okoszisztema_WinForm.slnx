@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Okoszisztema/Okoszisztema.csproj" />
+  <Project Path="Okoszisztema_WinForm/Okoszisztema_WinForm.csproj" />
+</Solution>

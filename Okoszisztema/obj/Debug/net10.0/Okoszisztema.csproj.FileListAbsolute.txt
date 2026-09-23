@@ -1,0 +1,7 @@
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.csproj.AssemblyReference.cache
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.gentestingplatformentrypointinputcache.cache
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.genautoregisteredextensionsinputcache.cache
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.AssemblyInfoInputs.cache
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.AssemblyInfo.cs
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.csproj.CoreCompileInputs.cache
