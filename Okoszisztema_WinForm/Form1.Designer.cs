@@ -33,21 +33,21 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            numericUpDown1 = new NumericUpDown();
+            NUDfoxCount = new NumericUpDown();
             NUDnumberOfRabbits = new NumericUpDown();
-            numericUpDown4 = new NumericUpDown();
-            numericUpDown5 = new NumericUpDown();
+            NUDgrassChance = new NumericUpDown();
+            NUDmapSize = new NumericUpDown();
             tableLayoutPanel1 = new TableLayoutPanel();
             NUDstepsPerSec = new NumericUpDown();
             FLPmenubar = new FlowLayoutPanel();
             BopenFile = new Button();
             BstartSim = new Button();
             Bexit = new Button();
-            LerrorDisp = new Label();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            button1 = new Button();
+            ((System.ComponentModel.ISupportInitialize)NUDfoxCount).BeginInit();
             ((System.ComponentModel.ISupportInitialize)NUDnumberOfRabbits).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown4).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)NUDgrassChance).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)NUDmapSize).BeginInit();
             tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)NUDstepsPerSec).BeginInit();
             FLPmenubar.SuspendLayout();
@@ -103,51 +103,59 @@
             label5.TabIndex = 8;
             label5.Text = "Size of the map:(n*n)";
             // 
-            // numericUpDown1
+            // NUDfoxCount
             // 
-            numericUpDown1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            numericUpDown1.Location = new Point(526, 164);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(518, 31);
-            numericUpDown1.TabIndex = 9;
+            NUDfoxCount.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            NUDfoxCount.Location = new Point(526, 164);
+            NUDfoxCount.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            NUDfoxCount.Name = "NUDfoxCount";
+            NUDfoxCount.Size = new Size(518, 31);
+            NUDfoxCount.TabIndex = 9;
+            NUDfoxCount.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // NUDnumberOfRabbits
             // 
             NUDnumberOfRabbits.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             NUDnumberOfRabbits.Location = new Point(526, 44);
+            NUDnumberOfRabbits.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             NUDnumberOfRabbits.Name = "NUDnumberOfRabbits";
             NUDnumberOfRabbits.Size = new Size(518, 31);
             NUDnumberOfRabbits.TabIndex = 10;
+            NUDnumberOfRabbits.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
-            // numericUpDown4
+            // NUDgrassChance
             // 
-            numericUpDown4.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            numericUpDown4.Location = new Point(526, 404);
-            numericUpDown4.Name = "numericUpDown4";
-            numericUpDown4.Size = new Size(518, 31);
-            numericUpDown4.TabIndex = 12;
+            NUDgrassChance.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            NUDgrassChance.Location = new Point(526, 404);
+            NUDgrassChance.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            NUDgrassChance.Name = "NUDgrassChance";
+            NUDgrassChance.Size = new Size(518, 31);
+            NUDgrassChance.TabIndex = 12;
+            NUDgrassChance.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
-            // numericUpDown5
+            // NUDmapSize
             // 
-            numericUpDown5.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            numericUpDown5.Location = new Point(526, 525);
-            numericUpDown5.Name = "numericUpDown5";
-            numericUpDown5.Size = new Size(518, 31);
-            numericUpDown5.TabIndex = 13;
+            NUDmapSize.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            NUDmapSize.Location = new Point(526, 525);
+            NUDmapSize.Minimum = new decimal(new int[] { 9, 0, 0, 0 });
+            NUDmapSize.Name = "NUDmapSize";
+            NUDmapSize.Size = new Size(518, 31);
+            NUDmapSize.TabIndex = 13;
+            NUDmapSize.Value = new decimal(new int[] { 9, 0, 0, 0 });
             // 
             // tableLayoutPanel1
             // 
             tableLayoutPanel1.ColumnCount = 2;
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel1.Controls.Add(numericUpDown5, 1, 4);
+            tableLayoutPanel1.Controls.Add(NUDmapSize, 1, 4);
             tableLayoutPanel1.Controls.Add(label5, 0, 4);
-            tableLayoutPanel1.Controls.Add(numericUpDown4, 1, 3);
+            tableLayoutPanel1.Controls.Add(NUDgrassChance, 1, 3);
             tableLayoutPanel1.Controls.Add(label4, 0, 3);
             tableLayoutPanel1.Controls.Add(NUDstepsPerSec, 1, 2);
             tableLayoutPanel1.Controls.Add(label3, 0, 2);
             tableLayoutPanel1.Controls.Add(labeal2, 0, 0);
-            tableLayoutPanel1.Controls.Add(numericUpDown1, 1, 1);
+            tableLayoutPanel1.Controls.Add(NUDfoxCount, 1, 1);
             tableLayoutPanel1.Controls.Add(NUDnumberOfRabbits, 1, 0);
             tableLayoutPanel1.Controls.Add(label1, 0, 1);
             tableLayoutPanel1.Dock = DockStyle.Fill;
@@ -167,16 +175,19 @@
             // 
             NUDstepsPerSec.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             NUDstepsPerSec.Location = new Point(526, 284);
+            NUDstepsPerSec.Maximum = new decimal(new int[] { 1000, 0, 0, 0 });
+            NUDstepsPerSec.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             NUDstepsPerSec.Name = "NUDstepsPerSec";
             NUDstepsPerSec.Size = new Size(518, 31);
             NUDstepsPerSec.TabIndex = 11;
+            NUDstepsPerSec.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // FLPmenubar
             // 
             FLPmenubar.Controls.Add(BopenFile);
             FLPmenubar.Controls.Add(BstartSim);
             FLPmenubar.Controls.Add(Bexit);
-            FLPmenubar.Controls.Add(LerrorDisp);
+            FLPmenubar.Controls.Add(button1);
             FLPmenubar.Dock = DockStyle.Top;
             FLPmenubar.Location = new Point(0, 0);
             FLPmenubar.Name = "FLPmenubar";
@@ -214,17 +225,16 @@
             Bexit.TabIndex = 2;
             Bexit.Text = "Exit";
             Bexit.UseVisualStyleBackColor = true;
+            Bexit.Click += Bexit_Click;
             // 
-            // LerrorDisp
+            // button1
             // 
-            LerrorDisp.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            LerrorDisp.AutoSize = true;
-            LerrorDisp.Location = new Point(446, 7);
-            LerrorDisp.Name = "LerrorDisp";
-            LerrorDisp.Size = new Size(59, 25);
-            LerrorDisp.TabIndex = 3;
-            LerrorDisp.Text = "label6";
-            LerrorDisp.TextAlign = ContentAlignment.MiddleCenter;
+            button1.Location = new Point(446, 3);
+            button1.Name = "button1";
+            button1.Size = new Size(112, 34);
+            button1.TabIndex = 3;
+            button1.Text = "Docs";
+            button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -236,15 +246,14 @@
             Name = "Form1";
             Text = "Okoszisztema";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDfoxCount).EndInit();
             ((System.ComponentModel.ISupportInitialize)NUDnumberOfRabbits).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown4).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDgrassChance).EndInit();
+            ((System.ComponentModel.ISupportInitialize)NUDmapSize).EndInit();
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)NUDstepsPerSec).EndInit();
             FLPmenubar.ResumeLayout(false);
-            FLPmenubar.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -255,16 +264,16 @@
         private Label label3;
         private Label label4;
         private Label label5;
-        private NumericUpDown numericUpDown1;
+        private NumericUpDown NUDfoxCount;
         private NumericUpDown NUDnumberOfRabbits;
-        private NumericUpDown numericUpDown4;
-        private NumericUpDown numericUpDown5;
+        private NumericUpDown NUDgrassChance;
+        private NumericUpDown NUDmapSize;
         private TableLayoutPanel tableLayoutPanel1;
         private FlowLayoutPanel FLPmenubar;
         private Button BopenFile;
         private Button BstartSim;
         private Button Bexit;
-        private Label LerrorDisp;
         private NumericUpDown NUDstepsPerSec;
+        private Button button1;
     }
 }

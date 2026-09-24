@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\okoszisztema_winform\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -21,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema_winform\\simulation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\simulation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|solutionrelative:okoszisztema_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|solutionrelative:okoszisztema\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6BE684B-30F6-13F9-5A56-5F8286D21714}|Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema_winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|solutionrelative:okoszisztema\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|c:\\users\\bbujd\\desktop\\okoszisztema_winform\\okoszisztema\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D01F4C-D5E2-650C-B947-77B6602FBA56}|Okoszisztema\\Okoszisztema.csproj|solutionrelative:okoszisztema\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs",
               "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Form1.cs",
               "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs",
               "RelativeToolTip": "Okoszisztema_WinForm\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAewBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T08:42:12.094Z",
               "IsPinned": true,
@@ -88,7 +88,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs",
+              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.cs",
+              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs*",
+              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAjwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:21:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs",
+              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.cs",
+              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs [Design]*",
+              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:32:14.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Map.cs",
+              "RelativeDocumentMoniker": "Okoszisztema\\Map.cs",
+              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Map.cs",
+              "RelativeToolTip": "Okoszisztema\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:32:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.Designer.cs",
+              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.Designer.cs",
+              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.Designer.cs",
+              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAWwPkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:36:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Okoszisztema_WinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T09:56:48.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Form1.Designer.cs",
@@ -96,62 +157,11 @@
               "RelativeToolTip": "Okoszisztema_WinForm\\Form1.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAvwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:38:25.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T10:38:25.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Simulation.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.Designer.cs",
-              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.Designer.cs",
-              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.Designer.cs",
-              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.Designer.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:36:45.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Simulation.cs",
-              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs",
-              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.cs",
-              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs",
-              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:21:23.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Simulation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs",
-              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Simulation.cs",
-              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Simulation.cs [Design]",
-              "RelativeToolTip": "Okoszisztema_WinForm\\Simulation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:12:30.28Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs",
-              "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs [Design]",
-              "RelativeToolTip": "Okoszisztema_WinForm\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T09:56:48.338Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Okoszisztema_WinForm.csproj",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj",
               "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Okoszisztema_WinForm.csproj",
@@ -163,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\IEntity.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\IEntity.cs",
@@ -175,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Grass.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Grass.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\Grass.cs",
@@ -187,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Fox.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Fox.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\Fox.cs",
@@ -199,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GroundTile.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\GroundTile.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\GroundTile.cs",
@@ -211,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Field.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\Field.cs",
@@ -223,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Rabbit.cs",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Rabbit.cs",
               "RelativeDocumentMoniker": "Okoszisztema\\Rabbit.cs",
@@ -235,19 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Map.cs",
-              "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Map.cs",
-              "RelativeDocumentMoniker": "Okoszisztema\\Map.cs",
-              "ToolTip": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema\\Map.cs",
-              "RelativeToolTip": "Okoszisztema\\Map.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowEYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T08:32:12.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bbujd\\Desktop\\Okoszisztema_WinForm\\Okoszisztema_WinForm\\Form1.cs",
               "RelativeDocumentMoniker": "Okoszisztema_WinForm\\Form1.cs",

@@ -115,3 +115,6 @@ C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\obj\Debug\net10
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\obj\Debug\net10.0-windows\Okoszisztema_WinForm.genruntimeconfig.cache
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\obj\Debug\net10.0-windows\ref\Okoszisztema_WinForm.dll
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\obj\Debug\net10.0-windows\Okoszisztema_WinForm.Simulation.resources
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\obj\Debug\net10.0-windows\Okoszisztema_WinForm.sourcelink.json
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\bin\Debug\net10.0-windows\Okoszisztema.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema_WinForm\bin\Debug\net10.0-windows\Okoszisztema.pdb

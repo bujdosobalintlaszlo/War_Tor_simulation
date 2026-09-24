@@ -6,14 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Okoszisztema_WinForm/1.0.0": {
+      "Okoszisztema/1.0.0": {
         "dependencies": {
           "NUnit": "4.6.1",
-          "NUnit3TestAdapter": "6.3.0",
-          "Okoszisztema": "1.0.0"
+          "NUnit3TestAdapter": "6.3.0"
         },
         "runtime": {
-          "Okoszisztema_WinForm.dll": {}
+          "Okoszisztema.dll": {}
         }
       },
       "Microsoft.ApplicationInsights/2.23.0": {
@@ -366,23 +365,11 @@
           "Microsoft.Testing.Extensions.VSTestBridge": "2.3.3",
           "Microsoft.Testing.Platform.MSBuild": "2.3.3"
         }
-      },
-      "Okoszisztema/1.0.0": {
-        "dependencies": {
-          "NUnit": "4.6.1",
-          "NUnit3TestAdapter": "6.3.0"
-        },
-        "runtime": {
-          "Okoszisztema.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
   "libraries": {
-    "Okoszisztema_WinForm/1.0.0": {
+    "Okoszisztema/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -456,11 +443,6 @@
       "sha512": "sha512-8ZD+0dIfDHsL4w4Gl/LPxWH0O4ky3hFXqTZjY+ry0ThI3cMVErr9Tjxal5O5wJxGXh50a9qkDEAWVca8KQYCEw==",
       "path": "nunit3testadapter/6.3.0",
       "hashPath": "nunit3testadapter.6.3.0.nupkg.sha512"
-    },
-    "Okoszisztema/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

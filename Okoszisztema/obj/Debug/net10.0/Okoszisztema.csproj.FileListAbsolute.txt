@@ -5,3 +5,17 @@ C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okosz
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.AssemblyInfoInputs.cache
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.AssemblyInfo.cs
 C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.csproj.CoreCompileInputs.cache
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.sourcelink.json
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\nunit.engine.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\nunit.engine.api.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\nunit.engine.core.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\testcentric.engine.metadata.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\NUnit3.TestAdapter.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\Okoszisztema.deps.json
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\Okoszisztema.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\bin\Debug\net10.0\Okoszisztema.pdb
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\refint\Okoszisztema.dll
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\Okoszisztema.pdb
+C:\Users\bbujd\Desktop\Okoszisztema_WinForm\Okoszisztema\obj\Debug\net10.0\ref\Okoszisztema.dll

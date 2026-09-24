@@ -15,12 +15,10 @@ namespace Okoszisztema
             this.width_ = width;
             this.grass_chance_ = grass_chance_;
             r= new Random();
-            FillMap();
         }
 
         private void FillMap() {
             for (int i = 0; i < height_; ++i) {
-                map_.Add(new List<Field>());
                 for (int j = 0; j < width_; ++j) {
                     map_[i].Add(new GroundTile());
                 }
@@ -60,7 +58,7 @@ namespace Okoszisztema
             if (map_[x][y].GetType() == typeof(GroundTile)) {
                 if (typeof(Fox) == entity.GetType())
                 {
-                    map_[x][y] = new Fox();
+                    //map_[x][y] = new Fox();
                 }
                 else if (typeof(Rabbit) == entity.GetType()) { 
                 
