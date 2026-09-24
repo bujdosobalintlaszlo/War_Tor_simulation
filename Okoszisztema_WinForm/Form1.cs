@@ -5,6 +5,7 @@ namespace Okoszisztema_WinForm
     public partial class Form1 : Form
     {
         int rabbit_count_, fox_count_, grass_grow_chance_, step_per_sec_, map_size_;
+        string filePath;
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +23,10 @@ namespace Okoszisztema_WinForm
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.ShowDialog();
+            //openFileDialog.ShowDialog();
+            if (openFileDialog.ShowDialog() == DialogResult.OK) { 
+                filePath = openFileDialog.FileName;
+            }
         }
 
         private void BstartSim_Click(object sender, EventArgs e)
@@ -68,8 +72,9 @@ namespace Okoszisztema_WinForm
             }
 
             Simulation simForm = new Simulation(map_size_,map_size_,grass_grow_chance_);
-            simForm.ShowDialog();
             this.Hide();
+            simForm.ShowDialog();
+            this.Close();
 
         }
 

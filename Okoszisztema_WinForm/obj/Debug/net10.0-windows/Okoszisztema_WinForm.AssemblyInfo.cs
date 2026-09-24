@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Okoszisztema_WinForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c744d9207c68237009e4f6de088c27d4113b95d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a05ef52ecab5262768e09da9ebd6a21c229702")]
 [assembly: System.Reflection.AssemblyProductAttribute("Okoszisztema_WinForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Okoszisztema_WinForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

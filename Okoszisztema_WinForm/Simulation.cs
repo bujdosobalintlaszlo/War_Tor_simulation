@@ -57,26 +57,24 @@ namespace Okoszisztema_WinForm
 
         private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
         {
-            MessageBox.Show(splitContainer1.Width.ToString());
-            MessageBox.Show($"{splitContainer1.Panel1.Width / mapY_} - {splitContainer1.Panel1.Width / mapX_}");
             Graphics g = e.Graphics;
-            Pen selPen = new Pen(Color.Blue);
-            //g.DrawRectangle(selPen, 10, 10, 50, 50);
-            int startX;
-            int startY = 0;
-            for (int i = 0; i < mapX_; ++i)
-            {
-                startX = 0;
-                for (int j = 0; j < mapY_; ++j)
-                {
-                    g.DrawRectangle(selPen, startX, startY, (splitContainer1.Panel1.Width - mapX_ * 10) / mapX_, (splitContainer1.Panel1.Height - mapY_ * 10) / mapY_);
-                    startX += 70;
-                }
-                startY += 55;
-            }
-            g.Dispose();
-        }
+            int cellWidth = splitContainer1.Panel1.Width / mapX_;
+            int cellHeight = splitContainer1.Panel1.Height / mapY_;
 
+            using (Pen selPen = new Pen(Color.Blue))
+            {
+                for (int i = 0; i < mapX_; ++i)
+                {
+                    for (int j = 0; j < mapY_; ++j)
+                    {
+                        int x = j * cellWidth;
+                        int y = i * cellHeight;
+
+                        g.DrawRectangle(selPen, x, y, cellWidth, cellHeight);
+                    }
+                }
+            } 
+        }
         private void button7_Click(object sender, EventArgs e)
         {
             this.Dispose();
